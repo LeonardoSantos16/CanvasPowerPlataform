@@ -1,0 +1,3 @@
+fuction brnRiboon(){
+     Xrm.Utility.alertDialog("Cricou no botão Ribbon workbench");
+}
