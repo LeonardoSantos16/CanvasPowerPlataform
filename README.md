@@ -70,10 +70,10 @@ Fluxo de ação do Power Automate no botão de salvar inclusão de instrutor/alu
 
 
 
-## Projetos Coding The Future Avanade
-
-Outros projetos feitos no Bootcamp Coding The Future Avanade:
+## Outros projetos feitos no Bootcamp Coding The Future Avanade:
 
 Criação de um site básico utilizando o aplicativo Portals do Power Apps e o dataverse https://github.com/LeonardoSantos16/PortalPowerAppsDynamics
 
 Criação de uma painel no power BI para a exibição no MS Dynamics https://github.com/LeonardoSantos16/PainelPowerBiDynamics365
+
+Exercícios do Bootcamp Programação C# com CRM Dynamics  https://github.com/LeonardoSantos16/exercicios_curso_dynamicsCsharp
